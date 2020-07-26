@@ -1,6 +1,6 @@
 # spotlight
 This is the repo that contains the content for the MSP Nigeria MSP of the Week spotlight series
-___
+
 ## MSP of the Week (Week 3 - July 24, 2020)
 Check out our MSPs of the week for week 3 of this month, July, here on [LinkedIn](https://www.linkedin.com/posts/mspsinnigeria_we-are-super-excited-to-introduce-the-microsoft-activity-6692407516497747968-XMwu)
 
